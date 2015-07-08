@@ -10,3 +10,7 @@
 <p class="alert alert-warning">...</p>
 <p class="alert alert-error">...</p>
 ```
+
+#### Demo
+
+[http://nathancahill.github.io/skeleton-alerts/](http://nathancahill.github.io/skeleton-alerts/)
