@@ -1,0 +1,25 @@
+{
+  "name": "skeleton-alerts",
+  "version": "1.0.0",
+  "authors": [
+    "Nathan Cahill <nathan@nathancahill.com>"
+  ],
+  "description": "Alerts for Skeleton",
+  "main": "skeleton-alerts.css",
+  "keywords": [
+    "skeleton",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nathancahill/skeleton-alerts",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skeleton": "~2.0.4"
+  }
+}
